@@ -1,5 +1,5 @@
-img_rows = 60
-img_cols = 60
+img_rows = 6
+img_cols = 6
 num_features = 13
 num_images = 750
 num_class = 2
